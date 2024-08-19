@@ -1,10 +1,13 @@
-//Proyect Max Security Door
+//Proyecto Puerta Seguridad Maxima
 //Manolo Iniguez
+//Sebastian Mena
+//Jossua Guevara
 
 #include <Keypad.h>
 #include <Wire.h>
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>
+
 
 //DispayLCD
 LiquidCrystal_I2C lcd(0x3F, 16,2);
